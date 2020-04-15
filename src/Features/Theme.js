@@ -14,6 +14,7 @@ export const GlobalStyles = styled.div`
   flex-direction: column;
   justify-content: space-between;
   height: 100vh;
+  width: 100vw;
   margin: 0;
   padding: 10px;
   font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, Helvetica,
