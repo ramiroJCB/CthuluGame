@@ -6,7 +6,6 @@ import { Races, Weapons } from "./Icons";
 //
 import { NewGame } from "../../Store/actions/Game";
 //
-
 import { GlowTitle, ImageFloating, Buttons, Input, Images } from "./styles";
 import Axios from "axios";
 
